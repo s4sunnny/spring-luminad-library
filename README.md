@@ -41,4 +41,10 @@ CORS has been configured with the default configuration.
 only you need to take pull of this Spring based project in any of the IDE for example STS.
 After which you just need to run this project as run as Spring boot app.
 
-#
+# Version
+
+1. Java version - 11
+2. Spring version - 2.6.1
+3. Angular version - 13.2.6
+
+
