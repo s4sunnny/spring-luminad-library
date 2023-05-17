@@ -3,6 +3,19 @@
 This is Java Spring Boot based project which is used to manage Library books. It consist of Java(programming language), Spring Boot(framework),
 JPA(Spring Data JPA), JWT(JSON Web Token)(Token Based Authentication), MySql(Database). 
 
+As i have uploaded a user SQL file init you need to import that toget user authenticated.
+for Admin used credentials is as follows
+
+Username -  sunny
+
+Password - admin123
+
+for non admin user
+
+Username - monu
+
+password - admin123
+
 This project is can be used to manage Library books. It can store Books details such as --
 
 1. Book Id
